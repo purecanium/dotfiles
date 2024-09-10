@@ -1,0 +1,345 @@
+2024-09-06 23:49:59,351 - Persepolis - INFO - 
+2024-09-06 23:49:59,354 - Persepolis - INFO - brave: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2024-09-06 23:49:59,354 - Persepolis - INFO - 
+2024-09-06 23:49:59,766 - Persepolis - INFO - yt-dlp version: 2024.08.06
+2024-09-06 23:50:00,105 - Persepolis - INFO - Persepolis path is:
+	/usr/bin/persepolis
+2024-09-06 23:50:00,105 - Persepolis - INFO - Persepolis is run as installed python madule.
+2024-09-06 23:50:00,110 - Persepolis - ERROR - Aria2 didn't respond!
+2024-09-06 23:50:00,110 - Persepolis - INFO - Starting Aria2
+2024-09-06 23:50:00,110 - Persepolis - INFO - Persepolis will use aria2c that installed on user's system.
+2024-09-06 23:50:00,193 - Persepolis - INFO - Persepolis will use ffmpeg that installed on user's system.
+2024-09-06 23:50:00,193 - Persepolis - INFO - 
+**********
+ffmpeg version n7.0.2 Copyright (c) 2000-2024 the FFmpeg developers
+built with gcc 14.2.1 (GCC) 20240805 configuration: --prefix=/usr
+--disable-debug --disable-static --disable-stripping --enable-amf
+--enable-avisynth --enable-cuda-llvm --enable-lto --enable-fontconfig
+--enable-frei0r --enable-gmp --enable-gnutls --enable-gpl --enable-
+ladspa --enable-libaom --enable-libass --enable-libbluray --enable-
+libbs2b --enable-libdav1d --enable-libdrm --enable-libdvdnav --enable-
+libdvdread --enable-libfreetype --enable-libfribidi --enable-libgsm
+--enable-libharfbuzz --enable-libiec61883 --enable-libjack --enable-
+libjxl --enable-libmodplug --enable-libmp3lame --enable-
+libopencore_amrnb --enable-libopencore_amrwb --enable-libopenjpeg
+--enable-libopenmpt --enable-libopus --enable-libplacebo --enable-
+libpulse --enable-librav1e --enable-librsvg --enable-librubberband
+--enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libsrt
+--enable-libssh --enable-libsvtav1 --enable-libtheora --enable-libv4l2
+--enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-
+libvpl --enable-libvpx --enable-libwebp --enable-libx264 --enable-
+libx265 --enable-libxcb --enable-libxml2 --enable-libxvid --enable-
+libzimg --enable-nvdec --enable-nvenc --enable-opencl --enable-opengl
+--enable-shared --enable-vapoursynth --enable-version3 --enable-vulkan
+libavutil      59.  8.100 / 59.  8.100 libavcodec     61.  3.100 / 61.
+3.100 libavformat    61.  1.100 / 61.  1.100 libavdevice    61.  1.100
+/ 61.  1.100 libavfilter    10.  1.100 / 10.  1.100 libswscale      8.
+1.100 /  8.  1.100 libswresample   5.  1.100 /  5.  1.100 libpostproc
+58.  1.100 / 58.  1.100
+**********
+
+2024-09-06 23:50:00,195 - Persepolis - INFO - Persepolis will use pproxy that installed on user's system.
+2024-09-06 23:50:00,195 - Persepolis - INFO - No socks to http convertor found.
+2024-09-06 23:50:00,195 - Persepolis - INFO - python version: 3.12.5 (main, Aug  9 2024, 08:20:41) [GCC 14.2.1 20240805]
+2024-09-06 23:50:00,196 - Persepolis - INFO - QT version: 6.7.2
+2024-09-06 23:50:00,196 - Persepolis - INFO - PySide version: 6.7.2
+2024-09-06 23:50:00,196 - Persepolis - INFO - Operating system: Linux
+2024-09-06 23:50:00,196 - Persepolis - INFO - Desktop env.: GNOME
+2024-09-06 23:50:02,116 - Persepolis - INFO - Aria2 is running
+2024-09-06 23:50:02,116 - Persepolis - INFO - Aria2 version: 1.37.0
+2024-09-06 23:50:02,619 - Persepolis - INFO - An error occurred while checking for a new release:
+2024-09-06 23:50:02,619 - Persepolis - INFO - HTTPSConnectionPool(host='persepolisdm.github.io', port=443): Max retries exceeded with url: /version (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7144f3359b50>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Persepolis Download Manager, 2024/09/07 13:38:03
+2024-09-07 13:38:03,066 - Persepolis - INFO - chrome: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2024-09-07 13:38:03,066 - Persepolis - INFO - 
+2024-09-07 13:38:03,070 - Persepolis - INFO - chromium: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2024-09-07 13:38:03,070 - Persepolis - INFO - 
+2024-09-07 13:38:03,073 - Persepolis - INFO - opera: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2024-09-07 13:38:03,073 - Persepolis - INFO - 
+2024-09-07 13:38:03,077 - Persepolis - INFO - vivaldi: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2024-09-07 13:38:03,077 - Persepolis - INFO - 
+2024-09-07 13:38:03,081 - Persepolis - INFO - firefox: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2024-09-07 13:38:03,081 - Persepolis - INFO - 
+2024-09-07 13:38:03,084 - Persepolis - INFO - brave: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2024-09-07 13:38:03,084 - Persepolis - INFO - 
+2024-09-07 13:38:03,495 - Persepolis - INFO - yt-dlp version: 2024.08.06
+2024-09-07 13:38:03,799 - Persepolis - INFO - Persepolis path is:
+	/usr/bin/persepolis
+2024-09-07 13:38:03,799 - Persepolis - INFO - Persepolis is run as installed python madule.
+2024-09-07 13:38:03,805 - Persepolis - ERROR - Aria2 didn't respond!
+2024-09-07 13:38:03,810 - Persepolis - INFO - Starting Aria2
+2024-09-07 13:38:03,811 - Persepolis - INFO - Persepolis will use aria2c that installed on user's system.
+2024-09-07 13:38:03,881 - Persepolis - INFO - Persepolis will use ffmpeg that installed on user's system.
+2024-09-07 13:38:03,881 - Persepolis - INFO - 
+**********
+ffmpeg version n7.0.2 Copyright (c) 2000-2024 the FFmpeg developers
+built with gcc 14.2.1 (GCC) 20240805 configuration: --prefix=/usr
+--disable-debug --disable-static --disable-stripping --enable-amf
+--enable-avisynth --enable-cuda-llvm --enable-lto --enable-fontconfig
+--enable-frei0r --enable-gmp --enable-gnutls --enable-gpl --enable-
+ladspa --enable-libaom --enable-libass --enable-libbluray --enable-
+libbs2b --enable-libdav1d --enable-libdrm --enable-libdvdnav --enable-
+libdvdread --enable-libfreetype --enable-libfribidi --enable-libgsm
+--enable-libharfbuzz --enable-libiec61883 --enable-libjack --enable-
+libjxl --enable-libmodplug --enable-libmp3lame --enable-
+libopencore_amrnb --enable-libopencore_amrwb --enable-libopenjpeg
+--enable-libopenmpt --enable-libopus --enable-libplacebo --enable-
+libpulse --enable-librav1e --enable-librsvg --enable-librubberband
+--enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libsrt
+--enable-libssh --enable-libsvtav1 --enable-libtheora --enable-libv4l2
+--enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-
+libvpl --enable-libvpx --enable-libwebp --enable-libx264 --enable-
+libx265 --enable-libxcb --enable-libxml2 --enable-libxvid --enable-
+libzimg --enable-nvdec --enable-nvenc --enable-opencl --enable-opengl
+--enable-shared --enable-vapoursynth --enable-version3 --enable-vulkan
+libavutil      59.  8.100 / 59.  8.100 libavcodec     61.  3.100 / 61.
+3.100 libavformat    61.  1.100 / 61.  1.100 libavdevice    61.  1.100
+/ 61.  1.100 libavfilter    10.  1.100 / 10.  1.100 libswscale      8.
+1.100 /  8.  1.100 libswresample   5.  1.100 /  5.  1.100 libpostproc
+58.  1.100 / 58.  1.100
+**********
+
+2024-09-07 13:38:03,883 - Persepolis - INFO - Persepolis will use pproxy that installed on user's system.
+2024-09-07 13:38:03,883 - Persepolis - INFO - No socks to http convertor found.
+2024-09-07 13:38:03,883 - Persepolis - INFO - python version: 3.12.5 (main, Aug  9 2024, 08:20:41) [GCC 14.2.1 20240805]
+2024-09-07 13:38:03,883 - Persepolis - INFO - QT version: 6.7.2
+2024-09-07 13:38:03,883 - Persepolis - INFO - PySide version: 6.7.2
+2024-09-07 13:38:03,883 - Persepolis - INFO - Operating system: Linux
+2024-09-07 13:38:03,883 - Persepolis - INFO - Desktop env.: GNOME
+2024-09-07 13:38:05,879 - Persepolis - INFO - Aria2 is running
+2024-09-07 13:38:05,879 - Persepolis - INFO - Aria2 version: 1.37.0
+2024-09-07 13:38:06,381 - Persepolis - INFO - An error occurred while checking for a new release:
+2024-09-07 13:38:06,381 - Persepolis - INFO - HTTPSConnectionPool(host='persepolisdm.github.io', port=443): Max retries exceeded with url: /version (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7600390ca810>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+===================================================
+Persepolis Download Manager, 2024/09/07 22:49:21
+2024-09-07 22:49:21,211 - Persepolis - INFO - chrome: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2024-09-07 22:49:21,212 - Persepolis - INFO - 
+2024-09-07 22:49:21,214 - Persepolis - INFO - chromium: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2024-09-07 22:49:21,214 - Persepolis - INFO - 
+2024-09-07 22:49:21,218 - Persepolis - INFO - opera: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2024-09-07 22:49:21,218 - Persepolis - INFO - 
+2024-09-07 22:49:21,221 - Persepolis - INFO - vivaldi: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2024-09-07 22:49:21,221 - Persepolis - INFO - 
+2024-09-07 22:49:21,223 - Persepolis - INFO - firefox: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2024-09-07 22:49:21,223 - Persepolis - INFO - 
+2024-09-07 22:49:21,226 - Persepolis - INFO - brave: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2024-09-07 22:49:21,226 - Persepolis - INFO - 
+2024-09-07 22:49:21,635 - Persepolis - INFO - yt-dlp version: 2024.08.06
+2024-09-07 22:49:22,017 - Persepolis - INFO - Persepolis path is:
+	/usr/bin/persepolis
+2024-09-07 22:49:22,017 - Persepolis - INFO - Persepolis is run as installed python madule.
+2024-09-07 22:49:22,022 - Persepolis - ERROR - Aria2 didn't respond!
+2024-09-07 22:49:22,022 - Persepolis - INFO - Starting Aria2
+2024-09-07 22:49:22,022 - Persepolis - INFO - Persepolis will use aria2c that installed on user's system.
+2024-09-07 22:49:22,117 - Persepolis - INFO - Persepolis will use ffmpeg that installed on user's system.
+2024-09-07 22:49:22,117 - Persepolis - INFO - 
+**********
+ffmpeg version n7.0.2 Copyright (c) 2000-2024 the FFmpeg developers
+built with gcc 14.2.1 (GCC) 20240805 configuration: --prefix=/usr
+--disable-debug --disable-static --disable-stripping --enable-amf
+--enable-avisynth --enable-cuda-llvm --enable-lto --enable-fontconfig
+--enable-frei0r --enable-gmp --enable-gnutls --enable-gpl --enable-
+ladspa --enable-libaom --enable-libass --enable-libbluray --enable-
+libbs2b --enable-libdav1d --enable-libdrm --enable-libdvdnav --enable-
+libdvdread --enable-libfreetype --enable-libfribidi --enable-libgsm
+--enable-libharfbuzz --enable-libiec61883 --enable-libjack --enable-
+libjxl --enable-libmodplug --enable-libmp3lame --enable-
+libopencore_amrnb --enable-libopencore_amrwb --enable-libopenjpeg
+--enable-libopenmpt --enable-libopus --enable-libplacebo --enable-
+libpulse --enable-librav1e --enable-librsvg --enable-librubberband
+--enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libsrt
+--enable-libssh --enable-libsvtav1 --enable-libtheora --enable-libv4l2
+--enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-
+libvpl --enable-libvpx --enable-libwebp --enable-libx264 --enable-
+libx265 --enable-libxcb --enable-libxml2 --enable-libxvid --enable-
+libzimg --enable-nvdec --enable-nvenc --enable-opencl --enable-opengl
+--enable-shared --enable-vapoursynth --enable-version3 --enable-vulkan
+libavutil      59.  8.100 / 59.  8.100 libavcodec     61.  3.100 / 61.
+3.100 libavformat    61.  1.100 / 61.  1.100 libavdevice    61.  1.100
+/ 61.  1.100 libavfilter    10.  1.100 / 10.  1.100 libswscale      8.
+1.100 /  8.  1.100 libswresample   5.  1.100 /  5.  1.100 libpostproc
+58.  1.100 / 58.  1.100
+**********
+
+2024-09-07 22:49:22,119 - Persepolis - INFO - Persepolis will use pproxy that installed on user's system.
+2024-09-07 22:49:22,119 - Persepolis - INFO - No socks to http convertor found.
+2024-09-07 22:49:22,119 - Persepolis - INFO - python version: 3.12.5 (main, Aug  9 2024, 08:20:41) [GCC 14.2.1 20240805]
+2024-09-07 22:49:22,119 - Persepolis - INFO - QT version: 6.7.2
+2024-09-07 22:49:22,119 - Persepolis - INFO - PySide version: 6.7.2
+2024-09-07 22:49:22,119 - Persepolis - INFO - Operating system: Linux
+2024-09-07 22:49:22,119 - Persepolis - INFO - Desktop env.: GNOME
+2024-09-07 22:49:24,028 - Persepolis - INFO - Aria2 is running
+2024-09-07 22:49:24,029 - Persepolis - INFO - Aria2 version: 1.37.0
+2024-09-07 22:49:24,531 - Persepolis - INFO - An error occurred while checking for a new release:
+2024-09-07 22:49:24,531 - Persepolis - INFO - HTTPSConnectionPool(host='persepolisdm.github.io', port=443): Max retries exceeded with url: /version (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f65ab46e780>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Persepolis Download Manager, 2024/09/08 23:31:43
+2024-09-08 23:31:43,533 - Persepolis - INFO - chrome: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2024-09-08 23:31:43,533 - Persepolis - INFO - 
+2024-09-08 23:31:43,536 - Persepolis - INFO - chromium: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2024-09-08 23:31:43,536 - Persepolis - INFO - 
+2024-09-08 23:31:43,538 - Persepolis - INFO - opera: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2024-09-08 23:31:43,538 - Persepolis - INFO - 
+2024-09-08 23:31:43,541 - Persepolis - INFO - vivaldi: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2024-09-08 23:31:43,541 - Persepolis - INFO - 
+2024-09-08 23:31:43,543 - Persepolis - INFO - firefox: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2024-09-08 23:31:43,543 - Persepolis - INFO - 
+2024-09-08 23:31:43,546 - Persepolis - INFO - brave: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2024-09-08 23:31:43,547 - Persepolis - INFO - 
+2024-09-08 23:31:43,942 - Persepolis - INFO - yt-dlp version: 2024.08.06
+2024-09-08 23:31:44,361 - Persepolis - INFO - Persepolis path is:
+	/usr/bin/persepolis
+2024-09-08 23:31:44,362 - Persepolis - INFO - Persepolis is run as installed python madule.
+2024-09-08 23:31:44,366 - Persepolis - ERROR - Aria2 didn't respond!
+2024-09-08 23:31:44,366 - Persepolis - INFO - Starting Aria2
+2024-09-08 23:31:44,366 - Persepolis - INFO - Persepolis will use aria2c that installed on user's system.
+2024-09-08 23:31:44,435 - Persepolis - INFO - Persepolis will use ffmpeg that installed on user's system.
+2024-09-08 23:31:44,435 - Persepolis - INFO - 
+**********
+ffmpeg version n7.0.2 Copyright (c) 2000-2024 the FFmpeg developers
+built with gcc 14.2.1 (GCC) 20240805 configuration: --prefix=/usr
+--disable-debug --disable-static --disable-stripping --enable-amf
+--enable-avisynth --enable-cuda-llvm --enable-lto --enable-fontconfig
+--enable-frei0r --enable-gmp --enable-gnutls --enable-gpl --enable-
+ladspa --enable-libaom --enable-libass --enable-libbluray --enable-
+libbs2b --enable-libdav1d --enable-libdrm --enable-libdvdnav --enable-
+libdvdread --enable-libfreetype --enable-libfribidi --enable-libgsm
+--enable-libharfbuzz --enable-libiec61883 --enable-libjack --enable-
+libjxl --enable-libmodplug --enable-libmp3lame --enable-
+libopencore_amrnb --enable-libopencore_amrwb --enable-libopenjpeg
+--enable-libopenmpt --enable-libopus --enable-libplacebo --enable-
+libpulse --enable-librav1e --enable-librsvg --enable-librubberband
+--enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libsrt
+--enable-libssh --enable-libsvtav1 --enable-libtheora --enable-libv4l2
+--enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-
+libvpl --enable-libvpx --enable-libwebp --enable-libx264 --enable-
+libx265 --enable-libxcb --enable-libxml2 --enable-libxvid --enable-
+libzimg --enable-nvdec --enable-nvenc --enable-opencl --enable-opengl
+--enable-shared --enable-vapoursynth --enable-version3 --enable-vulkan
+libavutil      59.  8.100 / 59.  8.100 libavcodec     61.  3.100 / 61.
+3.100 libavformat    61.  1.100 / 61.  1.100 libavdevice    61.  1.100
+/ 61.  1.100 libavfilter    10.  1.100 / 10.  1.100 libswscale      8.
+1.100 /  8.  1.100 libswresample   5.  1.100 /  5.  1.100 libpostproc
+58.  1.100 / 58.  1.100
+**********
+
+2024-09-08 23:31:44,438 - Persepolis - INFO - Persepolis will use pproxy that installed on user's system.
+2024-09-08 23:31:44,438 - Persepolis - INFO - No socks to http convertor found.
+2024-09-08 23:31:44,438 - Persepolis - INFO - python version: 3.12.5 (main, Aug  9 2024, 08:20:41) [GCC 14.2.1 20240805]
+2024-09-08 23:31:44,438 - Persepolis - INFO - QT version: 6.7.2
+2024-09-08 23:31:44,438 - Persepolis - INFO - PySide version: 6.7.2
+2024-09-08 23:31:44,438 - Persepolis - INFO - Operating system: Linux
+2024-09-08 23:31:44,438 - Persepolis - INFO - Desktop env.: GNOME
+2024-09-08 23:31:46,371 - Persepolis - INFO - Aria2 is running
+2024-09-08 23:31:46,371 - Persepolis - INFO - Aria2 version: 1.37.0
+2024-09-08 23:31:46,874 - Persepolis - INFO - An error occurred while checking for a new release:
+2024-09-08 23:31:46,874 - Persepolis - INFO - HTTPSConnectionPool(host='persepolisdm.github.io', port=443): Max retries exceeded with url: /version (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7c9b6e34b9e0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ===================================================
+Persepolis Download Manager, 2024/09/10 23:59:33
+2024-09-10 23:59:33,066 - Persepolis - INFO - chrome: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2024-09-10 23:59:33,066 - Persepolis - INFO - 
+2024-09-10 23:59:33,072 - Persepolis - INFO - chromium: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2024-09-10 23:59:33,072 - Persepolis - INFO - 
+2024-09-10 23:59:33,078 - Persepolis - INFO - opera: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2024-09-10 23:59:33,078 - Persepolis - INFO - 
+2024-09-10 23:59:33,083 - Persepolis - INFO - vivaldi: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2024-09-10 23:59:33,083 - Persepolis - INFO - 
+2024-09-10 23:59:33,089 - Persepolis - INFO - firefox: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2024-09-10 23:59:33,089 - Persepolis - INFO - 
+2024-09-10 23:59:33,094 - Persepolis - INFO - brave: Json file is created successfully.
+persepolis executer file is created successfully.
+
+2024-09-10 23:59:33,095 - Persepolis - INFO - 
+2024-09-10 23:59:33,839 - Persepolis - INFO - yt-dlp version: 2024.08.06
+2024-09-10 23:59:35,002 - Persepolis - INFO - Persepolis path is:
+	/usr/bin/persepolis
+2024-09-10 23:59:35,002 - Persepolis - INFO - Persepolis is run as installed python madule.
+2024-09-10 23:59:35,005 - Persepolis - ERROR - Aria2 didn't respond!
+2024-09-10 23:59:35,006 - Persepolis - INFO - Starting Aria2
+2024-09-10 23:59:35,006 - Persepolis - INFO - Persepolis will use aria2c that installed on user's system.
+2024-09-10 23:59:35,166 - Persepolis - INFO - Persepolis will use ffmpeg that installed on user's system.
+2024-09-10 23:59:35,166 - Persepolis - INFO - 
+**********
+ffmpeg version n7.0.2 Copyright (c) 2000-2024 the FFmpeg developers
+built with gcc 14.2.1 (GCC) 20240805 configuration: --prefix=/usr
+--disable-debug --disable-static --disable-stripping --enable-amf
+--enable-avisynth --enable-cuda-llvm --enable-lto --enable-fontconfig
+--enable-frei0r --enable-gmp --enable-gnutls --enable-gpl --enable-
+ladspa --enable-libaom --enable-libass --enable-libbluray --enable-
+libbs2b --enable-libdav1d --enable-libdrm --enable-libdvdnav --enable-
+libdvdread --enable-libfreetype --enable-libfribidi --enable-libgsm
+--enable-libharfbuzz --enable-libiec61883 --enable-libjack --enable-
+libjxl --enable-libmodplug --enable-libmp3lame --enable-
+libopencore_amrnb --enable-libopencore_amrwb --enable-libopenjpeg
+--enable-libopenmpt --enable-libopus --enable-libplacebo --enable-
+libpulse --enable-librav1e --enable-librsvg --enable-librubberband
+--enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libsrt
+--enable-libssh --enable-libsvtav1 --enable-libtheora --enable-libv4l2
+--enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-
+libvpl --enable-libvpx --enable-libwebp --enable-libx264 --enable-
+libx265 --enable-libxcb --enable-libxml2 --enable-libxvid --enable-
+libzimg --enable-nvdec --enable-nvenc --enable-opencl --enable-opengl
+--enable-shared --enable-vapoursynth --enable-version3 --enable-vulkan
+libavutil      59.  8.100 / 59.  8.100 libavcodec     61.  3.100 / 61.
+3.100 libavformat    61.  1.100 / 61.  1.100 libavdevice    61.  1.100
+/ 61.  1.100 libavfilter    10.  1.100 / 10.  1.100 libswscale      8.
+1.100 /  8.  1.100 libswresample   5.  1.100 /  5.  1.100 libpostproc
+58.  1.100 / 58.  1.100
+**********
+
+2024-09-10 23:59:35,169 - Persepolis - INFO - Persepolis will use pproxy that installed on user's system.
+2024-09-10 23:59:35,169 - Persepolis - INFO - No socks to http convertor found.
+2024-09-10 23:59:35,170 - Persepolis - INFO - python version: 3.12.5 (main, Aug  9 2024, 08:20:41) [GCC 14.2.1 20240805]
+2024-09-10 23:59:35,170 - Persepolis - INFO - QT version: 6.7.2
+2024-09-10 23:59:35,170 - Persepolis - INFO - PySide version: 6.7.2
+2024-09-10 23:59:35,170 - Persepolis - INFO - Operating system: Linux
+2024-09-10 23:59:35,170 - Persepolis - INFO - Desktop env.: GNOME
+2024-09-10 23:59:37,014 - Persepolis - INFO - Aria2 is running
+2024-09-10 23:59:37,014 - Persepolis - INFO - Aria2 version: 1.37.0

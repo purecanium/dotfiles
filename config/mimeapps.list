@@ -1,0 +1,21 @@
+[Default Applications]
+video/mp2t=org.gnome.Totem.desktop
+image/jpeg=org.gnome.Loupe.desktop
+image/png=org.gnome.Loupe.desktop
+video/x-matroska=vlc.desktop
+image/webp=org.gnome.Loupe.desktop
+video/mp4=vlc.desktop
+inode/directory=org.gnome.Nautilus.desktop
+text/plain=org.gnome.TextEditor.desktop
+x-scheme-handler/discord-460807638964371468=discord-460807638964371468.desktop
+application/x-shellscript=org.gnome.TextEditor.desktop
+
+[Added Associations]
+video/mp2t=vlc.desktop;org.gnome.Totem.desktop;
+image/jpeg=org.gnome.Loupe.desktop;
+image/png=org.gnome.Loupe.desktop;
+video/x-matroska=vlc.desktop;
+image/webp=org.gnome.Loupe.desktop;
+video/mp4=vlc.desktop;
+text/plain=org.gnome.TextEditor.desktop;
+application/x-shellscript=org.gnome.TextEditor.desktop;
